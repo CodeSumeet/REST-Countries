@@ -46,7 +46,7 @@ Ensure you have `node` and `npm` (or `yarn`) installed.
 ## 🔗 Links
 
 - [Project Homepage](https://restcountries-mu.vercel.app)
-- [Repository](https://github.com/CodeSumeet/restcountries)
+- [Repository](https://github.com/CodeSumeet/REST-Countries)
 
 ## ✍️ Author
 
