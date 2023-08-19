@@ -2,7 +2,7 @@
 
 A beautifully designed weather forecast web application. Inspired by designs from [devChallenges.io](https://devChallenges.io).
 
-![SkyMoods Screenshot](./public/desktop-preview.jpg)
+![SkyMoods Screenshot](./restcountries/public/desktop-preview.jpg)
 
 ## 🌟 Features
 
